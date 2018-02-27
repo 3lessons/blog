@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 lessons</title>
-    <link>https://3lessons.github.io/</link>
-    <description>Recent content on 3 lessons</description>
+    <title>Posts on 3 lessons</title>
+    <link>https://3lessons.github.io/posts/</link>
+    <description>Recent content in Posts on 3 lessons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Feb 2018 17:04:33 +0100</lastBuildDate>
     
-	<atom:link href="https://3lessons.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://3lessons.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
